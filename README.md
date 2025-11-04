@@ -1,10 +1,10 @@
-# STIGS-REMED-VIA-Powershell In Construction
+   # Windows 11 STIG Remediation Scripts
 
-This repository contains PowerShell scripts for automating the remediation of STIG (Security Technical Implementation Guide) findings on Windows 10 systems. The goal of this project is not only to ensure compliance with security best practices but also to **improve my proficiency in using PowerShell** for real-world system administration and security tasks. Each script corresponds to a specific STIG ID and applies the recommended configuration automatically.
+This repository contains PowerShell scripts designed to automate the remediation of Windows 11 STIG (Security Technical Implementation Guide) findings. Each script targets a specific STIG ID and applies the required configuration settings to harden the operating system in alignment with DoD and NIST security baselines.
 
-# STIG Remediations Implemented
+# Implemented STIG Remediations
 
-| Date       | STIG Application | GitHub Link | Description |
+| Date       | STIG ID | GitHub | Description |
 |-----------|-----------------|------------|------------|
 | 10/8/2025 | STIG-ID: WN11-AU-000500 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/STIG-ID-WN10-AU-000500) | Implemented PowerShell remediation for STIG-ID: WN10-AU-000500 |
 | 10/6/2025 | STIG-ID: WN11-AU-000505 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-AU-000505) | Implemented PowerShell remediation for STIG-ID: WN10-AU-000505 |
@@ -17,11 +17,3 @@ This repository contains PowerShell scripts for automating the remediation of ST
 | 10/6/2025 | STIG-ID: WN11-CC-000066 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-CC-000066) | Remediation for STIG Application WN10-CC-000066 |
 | 10/7/2025 | STIG-ID: WN11-00-000160 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/tree/main) | PowerShell remediation for WN10-00-000160 |
 | 10/7/2025 | STIG-ID: WN11-00-000175 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-00-000175) | PowerShell remediation for WN10-00-000175 |
-| 10/7/2025 | STIG-ID: WN11-CC-000007 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/tree/main) | PowerShell remediation for WN10-CC-000007 |
-| 10/7/2025 | STIG-ID: WN11-CC-000010 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/tree/main) | PowerShell remediation for WN10-CC-000010 |
-| 10/7/2025 | STIG-ID: WN11-CC-000052 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-CC-000052) | PowerShell remediation for WN10-CC-000052 |
-| 10/7/2025 | STIG-ID: WN11-CC-000220 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-CC-000220) | PowerShell remediation for WN10-CC-000220 |
-| 10/7/2025 | STIG-ID: WN11-CC-000230 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/tree/main) | PowerShell remediation for WN10-CC-000230 |
-| 10/7/2025 | STIG-ID: WN11-CC-000280 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-CC-000280) | PowerShell remediation for WN10-CC-000280 |
-| 10/7/2025 | STIG-ID: WN11-CC-000300 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-CC-000300) | PowerShell remediation for WN10-CC-000300 |
-| 10/7/2025 | STIG-ID: WN11-CC-000327 | [Link](https://github.com/enioluww/STIGS-REMED-VIA-Powershell/blob/main/WN10-CC-000327) | PowerShell remediation for WN10-CC-000327 |
